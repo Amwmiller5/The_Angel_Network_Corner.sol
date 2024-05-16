@@ -1,0 +1,48 @@
+<ul>
+  <li>NFT_COLLECTIONS_DRAWINGS_&_RAFFLE_WINNERS_2024</span></li>
+  <li>Steven Jackson<span class="badge">January2024_#1_Winner!</span></li>
+  <li>Thomas Keilobrodrick<span class="badge">January2024_#2_Winner!</span></li>
+  <li>Jackie L. Medrick<span class="badge">January2024_#3_Winner!</span></li>
+  <li>Mary Greggory<span class="badge">Febuary2024_#1_Winner!</span></li>
+  <li>Astreal M. Forsha<span class="badge">Febuary2024_#2_Winner!</span></li>
+  <li>David Dailey<span class="badge">Febuary2024_#3_Winner!</span></li>
+  <li>Gena Banks<span class="badge">March2024_#1_Winner!</span></li>
+  <li>Richard Miller<span class="badge">March2024_#2_Winner!</span></li>
+  <li>Julia Rose<span class="badge">March2024_#3_Winner!</span></li>
+  <li>Charlie Bennite<span class="badge">April2024_#1_Winner!</span></li>
+  <li>Sammie Jones<span class="badge">April2024_#2_Winner!</span></li>
+  <li>Chase N. Willis<span class="badge">April2024_#3_Winner!</span></li>
+  <li>Paulette Johnson<span class="badge">May2024_#1_Winner!</span></li>
+  <li>Jerry Lewis<span class="badge">May2024_#2_Winner!</span></li>
+  <li>Kelly Ensilin<span class="badge">May2024_#3_Winner!</span></li>
+  <li>CONGRATULATIONS EVERYONE!_HOPE YOU ENJOYED YOUR SURPRISE GIFTS!_NEXT_MONTH_WINNERS_ANNOUNCED_ON_THE_10TH!_DON'T_MISS_OUT!</span></li>
+</ul>
+}
+}
+/* Transform a basic list into a customized list group */
+ul.list-group {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul.list-group li {
+  border: 1px solid #ddd;
+  margin-top: -1px; /* Prevent double borders */
+  background-color: #f6f6f6;
+  padding: 12px;
+}
+
+/* Style badges inside the list group */
+ul.list-group .badge {
+  background-color: red;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 50%;
+  padding: 5px 10px;
+  text-align: center;
+  margin-left: 5px;
+}
+
+
+
