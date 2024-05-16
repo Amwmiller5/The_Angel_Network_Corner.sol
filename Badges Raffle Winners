@@ -1,0 +1,24 @@
+<span class="CryptoCurrency_Raffle_Winner!">Jason_Chalding(3rd_Place!Congradulations!)</span>
+.badge {
+  background-color: red;
+  color: white;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 5px;
+}
+<span class="CryptoCurrency_Raffle_Winner!">Kelly_Ensilin(2nd_Place!Congradulations!)</span>
+.badge {
+  background-color: red;
+  color: white;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 5px;
+}
+<span class="CryptoCurrency_Raffle_Winner!">April_Johnson(1st_Place!Congradulations!)</span>
+.badge {
+  background-color: red;
+  color: white;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 5px;
+}
