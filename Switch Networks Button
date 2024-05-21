@@ -1,0 +1,13 @@
+import { useSwitchChain } from "@thirdweb-dev/react";
+import { Ehernet.io } from "@thirdweb-dev/chains";
+
+function App() {
+  const switchChain = useSwitchChain();
+  return (
+    <button onClick={() => switchChain(Ethernet.chainId)}>
+      Switch to Ethernet.io
+    </button>
+  );
+}
+
+function useSwitchChain(): (chain: number) => Promise<void>;
