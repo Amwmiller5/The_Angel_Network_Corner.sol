@@ -1,0 +1,8 @@
+{
+  "kty": "RSA",
+  "kid": "f745f2cd-80f1-4376-8c38-c04aabe94e70",
+  "n": "AMDtkK32hJ27sMFi1D1DNVyzkQg1Y7ifYqvFbgtcVBcvcLLNkFEU7AX2K1EHNkbDcOkEZm3wFGxbQoYt2X7TMwgRsTMvJw4BfxptW5BeeEym_V8-veOPjq2pTwgtCtbH-yY8HDQapXN7zS6ggpLPqcVt3ex1avmuGihW6FuVQRQJfgzd21xf2kHG5zEC9dTbRKotUFgU04zfebhQtng0H7BGunmuv4dy9YO5I9OsQtrDLWyZrakk21Tx6tNSaSFbf2P7O1V_4at-62TSY2kwg1-su3AXO7W_l9dRKqGaGbZkQGvvJrF_-eXjbacIKgD30vPq5lr5z2IADwbQ39auu7M\u003d",
+  "e": "AQAB",
+  "alg": "RS512",
+  "use": "enc"
+}
