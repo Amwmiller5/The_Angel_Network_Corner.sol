@@ -1,0 +1,6 @@
+function useEmbeddedWalletSendVerificationEmail(): (
+  email: string,
+) => Promise<SendEmailOtpReturnType>;
+
+
+let returnType: (email: string) => Promise<SendEmailOtpReturnType>;
