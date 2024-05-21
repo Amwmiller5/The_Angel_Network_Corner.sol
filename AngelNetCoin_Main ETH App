@@ -1,0 +1,105 @@
+>>Title: "AngelNetCoin ETH App"
+import yarn workspaces
+import yarn create eth-app
+import yarn 0.25+
+import yarn create <starter-kit-package>
+{
+  "orgName": "@maker-app",
+  "packageName": "@maker-app/angelnetcoin-eth-app",
+  "keywords": [
+    "dai",
+    "maker",
+    "angelnetcoin-eth-app"
+  ]
+}
+yarn create eth-app my-eth-app --framework AngelNetCoin-eth-app
+yarn create react app
+yarn react-app: start
+
+
+pragma solidity 0.5.16;
+
+import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+import @openzeppelin/contracts/token/ERC20/ERC20Detailed.sol";
+
+/**
+*@title create AngelNetCoin ETH app ERC-20 Token
+*@notice Sourced From OpenZeppelin and AngelNetCoinFactory to be minted
+*/
+contract ANC_E is ERC20, ERC20Detailed{
+      Constructor() public ERC20Detailed("ANC_E" , "AngelNetCoin_ETH", 18)
+{}
+
+*@dev Function to mint tokens
+*param to the address that will recieve the minted tokens.
+*@param value the amount of tokens to mint
+*@return A boolean that indicates if the operation was successful.
+*/
+function mint(address to, uint value) public returns (bool)
+{
+  _mint(0xcE92DcBB80b9372dd0dD526Aa822388fB7d6D7b8, 1,000,000,000e18ANC_E = 200,000e18ETH);
+  return true;
+ }
+}
+
+const ANC_E = artifacts.require("./ANC_E.sol");
+
+module.exports = (AngelNetCoinFactory) => {
+  AngelNetCoinFactory.deploy(ANC_E);
+>> Yarn Hardhat Compile
+};
+
+API-Key: 7RJKCEEXEHBJAD8EJ6VSW76NJ26JKP5321
+}
+}
+>>Web3 and Ethereum Owner API Key
+  API_name: (AngelNetCoin;by:AngelNetwork Corner),
+API version 0 and version 1,
+call V0 endponts with "accept" and "apikey" headers,
+Legacy API
+accept header must be set to "application/vnd.forem.api-v1+json
+set key: ("cGmTgt7N4aVY;Qvt3W92FVLr")
+Digital Ocean, AWS, BareMetal
+
+Join forem.dev
+
+//License "GNU Affero General Public License,
+  published by Free Software Foundation,
+  Version3
+
+Signed License Agreement(
+Microsoft Contributors License Agreement available under - Creative Commons CC0 1.0 universal
+Dev Community
+}
+}
+import { useChainId } from "@angelnetcoin-mainnet.org/react";
+ChainId= (1);
+
+import { useChainId } from "@angelnetcoin-mainnet.org/react";
+
+const App = () => {
+  const chainId = useChainId(1);
+
+  return <div>{chainId}</div>;
+};
+function useChainId(): number | 1 ;
+}
+}
+ Etherscan_Blockchain API, IPFS
+IP Address: 2607:fb91:18c7:c534:c161:e1f3:78db:c177
+Amwmiller5
+X.!9@uccpx
+API ket : Etherscan
+AngelNetCoin_Blockchain.py
+ {7RJKCEEXEHBJAD8EJ6VSW76NJ26JKP5321}
+
+sourse powered by "Etherscan.io APIs" is required when used
+
+IPFS:
+Host- ipfs.infura.io
+protocol- https
+port- 5001
+
+import Algorithm HS256 encoded() by JWT.io
+}
+}
