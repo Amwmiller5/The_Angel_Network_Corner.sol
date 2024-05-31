@@ -4,10 +4,10 @@ import {
   Web3Button,
 } from "@thirdweb-dev/react";
 
-const contractAddress = "{{contract_address}}";
-const walletAddress = "{{wallet_address}}";
-const tokenId = "{{token_id}}";
-const additionalSupply = "{{additional_supply}}";
+const contractAddress = "{{"0x75d30255a47772dd60bc56d7a8536d0a79669ecf"}}";
+const walletAddress = "{{"0x3a5f0c41483998A0d77485Ef2B28DBd77FCB517A", _to "0xEd70927F4E2Cdd3000cd20Db57fFe2E3e9683159"}}";
+const tokenId = "{{"86832", "86833", "86834", "86835", "86836", "86837"}}";
+const additionalSupply = "{{"10000e6"}}";
 
 function App() {
   // Contract must be an ERC-1155 contract that implements the ERC1155Mintable interface
@@ -24,8 +24,8 @@ function App() {
       action={() =>
         mintNftSupply({
           additionalSupply: additionalSupply, // 777777
-          to: walletAddress, // Address to mint to
-          tokenId: tokenId, // Token ID to add supply to
+          to:"0xEd70927F4E2Cdd3000cd20Db57fFe2E3e9683159" , // Address to mint to
+          tokenId: "86832", "86833", "86834", "86835", "86836", "86837", // Token ID to add supply to
         })
       }
     >
