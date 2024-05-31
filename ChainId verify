@@ -1,0 +1,20 @@
+ Etherscan_Blockchain API, IPFS
+IP Address: 2607:fb91:18c7:c534:c161:e1f3:78db:c177
+Amwmiller5
+X.!9@uccpx
+API ket : Etherscan
+AngelNetCoin_Blockchain.py
+ {7RJKCEEXEHBJAD8EJ6VSW76NJ26JKP5321}
+}
+}
+import { useChainId };
+ChainId= (1);
+
+import { useChainId };
+
+const App = () => {
+  const chainId = useChainId(1);
+
+  return <div>{chainId}</div>;
+};
+function useChainId(): number | 1 ;
